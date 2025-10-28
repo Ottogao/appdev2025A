@@ -1,4 +1,5 @@
 #pragma once
+// this line is added on Github
 // constant definitions
 enum COLORS{BLACK=30, RED, GREEN, YELLOW, BLUE, MAGENTA, CYAN, WHITE};
 // function declarations
@@ -7,3 +8,5 @@ void clearScreen(void);
 void gotoXY(int x, int y);
 void setFGcolor(int c);
 void resetColors(void);
+
+// this line is added on Github (remote repo)
