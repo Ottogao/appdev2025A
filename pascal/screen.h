@@ -10,5 +10,6 @@ void setFGcolor(int c);
 void resetColors(void);
 
 // this line is added on Github (remote repo)
+// this line is a new change
 
 // this line is added by Visual Studio (local repo)
