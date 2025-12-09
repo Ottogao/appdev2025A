@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+//#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -7,7 +7,7 @@
 
 int main(void) {
 	int row;
-	printf("Pascal Triangle, enter the number of rows: ");
+	printf("Pascal Triangle, the number of rows: ");
 	scanf("%d", &row);
 	setBGcolor(WHITE);
 	clearScreen();
